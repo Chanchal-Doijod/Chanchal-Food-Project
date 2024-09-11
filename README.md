@@ -4,7 +4,9 @@ Welcome to the Chanchal Food Project! This project is a comprehensive food manag
 
 Features
 ---------
+
 Admin Panel
+-------------
 Add New Food Item:
 Select Food Category: Choose from predefined categories.
 Select Subcategory: Narrow down to specific subcategories.

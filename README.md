@@ -1,6 +1,6 @@
-Chanchal Food Project
+MenuCraft
 ----------------------
-Welcome to the Chanchal Food Project! This project is a comprehensive food management application designed to simplify the process of managing food items, their categories, and related information. It features an admin panel and a food interface for easy data handling.
+Welcome to the MenuCraft! This project is a comprehensive food management application designed to simplify the process of managing food items, their categories, and related information. It features an admin panel and a food interface for easy data handling.
 
 Features
 ---------

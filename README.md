@@ -8,11 +8,20 @@ Welcome to **MenuCraft**! This project is a comprehensive food management applic
 
 Here are some screenshots of the **MenuCraft** application in action:
 
-![Add Food Item](path/to/screenshot1.png)  
-*Admin Panel - Add Food Item*
+### **Food Register**
 
-![Display Food Items](path/to/screenshot2.png)  
-*Food Interface - Display Food Items*
+![Food Register](https://github.com/Chanchal-Doijod/Chanchal-Food-Project/blob/650d90426c572819a7746e1e6288d035e189be32/Screenshot%202024-12-15%20113642.png)  
+*Admin Panel - Register a New Food Item*
+
+### **Food Info Display**
+
+![Food Info](https://github.com/Chanchal-Doijod/Chanchal-Food-Project/blob/650d90426c572819a7746e1e6288d035e189be32/Screenshot%202024-12-15%20113530.png)  
+*Food Interface - Display Food Info*
+
+### **Food Edit Image**
+
+![Food Edit](https://github.com/Chanchal-Doijod/Chanchal-Food-Project/blob/650d90426c572819a7746e1e6288d035e189be32/Screenshot%202024-12-15%20113618.png)  
+*Food Interface - Edit Food Item*
 
 ---
 
@@ -66,8 +75,9 @@ To install **MenuCraft** locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/MenuCraft.git
+
 2. Navigate to project repository:
-cd MenuCraft
-3. install dependencies- npm install
-4. start the application- npm start
+  cd MenuCraft
+4. install dependencies- npm install
+5. start the application- npm start
 
